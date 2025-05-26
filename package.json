@@ -1,0 +1,16 @@
+{
+  "name": "mega-project",
+  "version": "1.0.0",
+  "description": "A mega project ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Javascript",
+    "Express",
+    "MongoDB"
+  ],
+  "author": "Hassan Ahmed Khan",
+  "license": "ISC"
+}
